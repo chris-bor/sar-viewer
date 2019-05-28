@@ -1,0 +1,1 @@
+Brakuje dwóch plików sar_types i propatria_types
