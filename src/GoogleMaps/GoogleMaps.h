@@ -41,8 +41,6 @@ class QCustomPlot;
     "</body>" \
     "</html>"
 
-//key=AIzaSyB6yWKP__zJPY1ep35FEtO-fPDoCfdEpLk&
-
 namespace SarViewer {
     class GoogleMaps: public QWebView
     {
